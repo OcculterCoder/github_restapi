@@ -1,6 +1,5 @@
 This is a RESTful API with one endpoint which has the ability to provide a list of Github's trending repositories based on their 
-number of stars and please be noted that these repositories were created within last 7 days. This API sums up each repository's html url with
-its corresponding no of stars and watchers.
+number of stars and please be noted that these repositories were created within last 7 days. This API sums up each repository's url with its corresponding no of stars and watchers.
 
 The project is built with Maven and Jersey framework.
 
